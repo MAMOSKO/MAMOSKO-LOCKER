@@ -1,2 +1,4 @@
 # MAMOSKO-LOCKER
-Metin şifrelene aracı
+Text encrypt tool
+
+A simple text encryption tool to share css for design written in Python.
